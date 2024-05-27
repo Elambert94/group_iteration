@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/elliottlambert/Documents/group_iteration/iteration_test/Content/Group.uasset",
+				"/Users/elliottlambert/Documents/group_iteration/iteration_test/Content/Items.uasset",
+				"/Users/elliottlambert/Documents/group_iteration/iteration_test/Content/BP_Data.uasset",
+				"/Users/elliottlambert/Documents/group_iteration/iteration_test/Content/DA_Groups.uasset",
+				"/Users/elliottlambert/Documents/group_iteration/iteration_test/Content/EUW_IterationTest.uasset",
+				"/Users/elliottlambert/Documents/group_iteration/iteration_test/Content/Features.uasset"
+			]
+		}
+	]
+}
